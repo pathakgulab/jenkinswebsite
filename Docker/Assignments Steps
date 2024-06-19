@@ -1,1 +1,44 @@
+Docker-Assignment-3
+
+In this assignment, we have to push an image to "Docker Hub" & create a new container on a separate machine. Install Apache2 on this new machine.
+
+Step 1: Create the image of the previous assignment container.
+
+Step 2: Push the image to the "DockerHub".
+
+Step 3: Create an EC2 Instance & pull the image.
+
+Step 4: Create a new container & install apache2 on this container.
+
+Step 5: Click on "Open Address" in the "Instance" section. A default apache2 web page will be opened.
+
+Docker-Assignment-4
+
+In this assignment, we have installed Apache2 on the EC2 instance using the Dockerfile
+
+Step 1: Create the EC2 Instance.
+
+Step 2: Create a Dockerfile
+
+Step 3: Create a Docker Image
+
+Step 4: Create a new container & apache2 is automatically installed now.
+
+Step 5: Click on "Open Address" in the "Instance" section. A default apache2 web page will be opened.
+
+Docker-Assignment-5
+
+In this assignment, we have installed Apache2 on the EC2 instance using the Dockerfile
+
+Step 1: Create the EC2 Instance & Install Docker on this instance.
+
+Step 2: Create an index.html file.
+
+Step 3: Add index.html file in the Dockerfile using the ADD command.
+
+Step 4: Create an image using the Dockerfile.
+
+Step 5: Create a container & map this container on port 89. The container will be successfully created if the Dockerfile is correct.
+
+Step 6: Open the Public IP Address with Port no 89, your index.html file content will be shown on the web page in the browser.
 
