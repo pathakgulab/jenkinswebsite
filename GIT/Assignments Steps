@@ -1,1 +1,83 @@
 
+Assignment: 1
+
+Step 1: Set up the EC2 Instance for performing the Git-Assignment-1.
+
+Step 2: Initialize the Git Hub repository using the command: git init
+
+Step 3: Create a folder as "assignment1".
+
+Step 4: Create the given three files.
+
+Step 5: Create a Git hub Repository as "Git-Assignment-1"
+
+Step 6: Stage the Code.txat and Output.txt files
+
+Step 7: Commit these files.
+
+Step 8: Push the files to the Git Hub Directory.
+
+Step 9: Make "master" as a default branch.
+
+Step 10: All files shown under "master" branch & only one file shows here.
+
+Assignment-2:
+
+● Create a git working directory with feature1.txt and feature2.txt in the master branch
+
+● Create 3 branches develop, feature1 and feature2
+
+● In develop branch create develop.txt, do not stage or commit it
+
+● Stash this file, and checkout to feature1 branch
+
+● Create new.txt file in feature1 branch, stage and commit this file
+
+● Checkout to develop, unstash this file and commit Please submit all the git commands used to do the above steps
+
+● Create a git working directory with feature1.txt and feature2.txt in the master branch
+
+Assignment-3:
+
+● Create a git working directory, with the following branches
+
+○ Develop
+
+○ F1
+
+○ f2
+
+● In the master branch, commit main.txt file
+
+● Put develop.txt in develop branch, f1.txt and f2.txt in f1 and f2 respectively
+
+● Push all these branches to github
+
+● On local delete f2 branch
+
+● Delete the same branch on github as well
+
+● In the master branch, commit main.txt file
+
+
+Assignment-4:
+
+Put master.txt on master branch, stage and commit
+
+Create 3 branches: public1, public2 and private
+
+Put public1.txt on public 1 branch, stage and commit
+
+Merge public 1 on master branch
+
+Edit master.txt on private branch, stage and commit
+
+Now update branch public 1 and public 2 with new master code in private
+
+Also update new master code on master
+
+Finally update all the code on the private branch
+
+
+
+
