@@ -1,22 +1,3 @@
-Project – Capstone I
-
-You have been hired as a Sr. DevOps Engineer in Abode Software. They want to implement DevOps Lifecycle in their company. You have been asked to implement this lifecycle as fast as possible. Abode Software is a product-based company and their product is available on this GitHub link. 
-https://github.com/hshar/website.git 
-
-Following are the specifications of the lifecycle: 
-
-1. Install the necessary software on the machines using a configuration management tool 
-2. Git workflow has to be implemented 
-3. Code Build should automatically be triggered once a commit is made to master branch or develop branch. 
-a. If a commit is made to master branch, test and push to prod 
-b. If a commit is made to develop branch, just test the product, do not push to prod 
-4. The code should be containerized with the help of a Dockerfile. The Dockerfile should be built every time there is a push to GitHub. Use the following pre-built container for your application: hshar/webapp The code should reside in '/var/www/html' 
-5. The above tasks should be defined in a Jenkins Pipeline with the following jobs: 
-a. Job1: build 
-b. Job2: test 
-c. Job3: prod
-
-For detailed solution, click on this link: https://medium.com/devops-guides/devops-capstone-project-implementing-a-devops-lifecycle-on-a-website-using-docker-jenkins-only-ab4d6ee908f2
 
 # Project 1 Solution:
 
@@ -99,6 +80,5 @@ sudo docker run -itd -p 80:80 finalrelease
 W. Your container will be successfully created everytime & website will be successfully deploed.
 
 X. Copy the Slave IP & Paste it into browser address bar & a webpage will be successfully shown.
-
 
 
